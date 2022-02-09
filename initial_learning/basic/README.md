@@ -10,5 +10,6 @@ In this example, we filter through various ip address information presented by `
 * View isolate IPv4 address and loopback with command: `ifconfig | grep -w inet | awk '{print $2}'`
 * Create an alias with command: `ifconfig | grep -w inet | awk '{print $2}'`
 
-https://user-images.githubusercontent.com/77082071/153291374-2b207a3e-03f4-4861-8943-aa1dfc51f7c1.mp4
+https://user-images.githubusercontent.com/77082071/153292303-3ccf09d3-3993-45b9-8d2f-5f57ae8a39d8.mp4
+
 
